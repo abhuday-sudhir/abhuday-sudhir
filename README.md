@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhuday</h1>
-<h3 align="center">A passionate Machine Learning Engineer from India</h3>
+<h3 align="center">A passionate AI Engineer and Java Backend Developer from India</h3>
 
-- 🔭 I’m currently working on [Neural Networks from Scratch](https://github.com/abhuday-sudhir/Neural-Network-using-Numpy)
+- 🔭 I’m currently working on [Journal App](https://github.com/abhuday-sudhir/JournalApp)
 
-- 🌱 I’m currently learning **NLP**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 🤝 I’m looking to collaborate on **AI/ML projects**
 
