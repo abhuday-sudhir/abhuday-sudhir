@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhuday</h1>
 <h3 align="center">A passionate AI Engineer and Java Backend Developer from India</h3>
 
-- 🔭 I’m currently working on [Journal App](https://github.com/abhuday-sudhir/JournalApp)
+- 🔭 I’m currently working on [OrderFlow](https://github.com/abhuday-sudhir/OrderFlow)
 
 - 🌱 I’m currently learning **Spring Boot**
 
