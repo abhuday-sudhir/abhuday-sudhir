@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhuday</h1>
 <h3 align="center">A passionate AI Engineer and Java Backend Developer from India</h3>
 
-- 🔭 I’m currently working on [Jira Clone](https://github.com/abhuday-sudhir/JiraClone)
+- 🔭 I’m currently working on [QuickPool](https://github.com/abhuday-sudhir/QuickPool-Adnroid)
 
 - 🌱 I’m currently learning **Spring Boot**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **abhudaysudhir2003@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DWja70RXFx1iPwH2FHT-dYIX0FbT_i4Z/view?usp=drive_link](https://drive.google.com/file/d/1DWja70RXFx1iPwH2FHT-dYIX0FbT_i4Z/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1mYMWEzwh7YFWKaFfuJBgKZdN-3w-sLM6/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
