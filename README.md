@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhuday</h1>
 <h3 align="center">A passionate AI Engineer and Java Backend Developer from India</h3>
 
-- 🔭 I’m currently working on [QuickPool](https://github.com/abhuday-sudhir/QuickPool-Adnroid)
+- 🔭 I’m currently working on [QuickPool](https://github.com/abhuday-sudhir/QuickPool-Android)
 
 - 🌱 I’m currently learning **Spring Boot**
 
